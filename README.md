@@ -40,7 +40,7 @@ Continue making variables & doing nesting selection with these steps:
 1. Make the `ul` font family be `sans-serif` and the `ol` font family be `monospace`.
 2. Make the background color of paragraphs in the the first container have blue color. In the second container, have those paragraphs be the color orange.
 3. Make the width of `container` elements have a width of 100% minus 40 pixels.
-> :bulb: Use the `calc` helper! (google it :wink:)
+> :bulb: Use the `calc` helper! Here is a [link](https://developer.mozilla.org/en-US/docs/Web/CSS/calc) :wink:
 4. Set the background color of the containers to be pink.
 
 ## Part 2: Getting Sassier
