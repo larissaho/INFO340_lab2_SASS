@@ -24,7 +24,7 @@ We will install a plugging called *Live Sass Compiler* that will compile your `s
 2. You will see that the *install* button just turned into *reload*. Click that and it should automatically restart your program.
 3. Here we will begin the sass watcher. See the blue bar at the bottom of your IDE (VSCode)? There should be an option saying `Watch Sass` with an eye symbol next to it. Click that!
 4. Once you do that, the `OUTPUT` tab will pop-out underneath your text editor. It means that whatever change you are making to `sass` files will automatically transpile to `css` files!
-5. Open the `index.html` and `css/styles.css` files!
+5. Open the `index.html` and `css/styles.scss` files!
 6. Make a change to `h1` to give it the color of `red` to confirm that the styles are compiling. Also, see if there is a `syles.css` file in your `css` folder! BOOOM MAGIC :sparkles:.
   > Once you are done with the lab, you can mess around with *Live Sass Compiler* and tell it where you want your `css` files to be compiled at. You can go to user settings in VSCode and type `liveSassCompile.settings.format`. Click this [link](https://github.com/ritwickdey/vscode-live-sass-compiler/blob/master/docs/settings.md) for more info.
 
