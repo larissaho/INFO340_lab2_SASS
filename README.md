@@ -1,6 +1,6 @@
 # Are you stuck?
 
-One of the most important lessons that I have learnt in life is how to teach myself. That is because in your academic or career path, you will encounter many professor/instructors whose teaching style will not match your learning style. Luckily, STEM nowadays is very easy to learn by yourself. So I really encourage you guys to learn things on your own. Here are some steps to follow when you are stuck:
+One of the most important lessons that I have learnt in life is how to teach myself. That is because in your academic or career path, you will encounter many professors/instructors whose teaching styles will not match your learning style. Luckily, STEM nowadays is very easy to learn by yourself. So I really encourage you guys to learn things on your own. Here are some steps to follow when you are stuck:
   1. Go to the [documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) or Stack Overflow.
   2. Ask your neighbor. Getting to know your classmate might help you choose teammates for your project.
   3. I have a solution branch. Go look at it and see if it makes sense.
@@ -54,7 +54,7 @@ Let's get a little more advanced!
 
 # Above and beyond!
 
-Congratulations! At this point, you are done with the lab! You can keep learning about Sass and implement unique features into this exercise. But don't worry! Here are some suggestion of what you can dive into if you are interested in `sass`.
+Congratulations! At this point, you are done with the lab! You can keep learning about Sass and implement unique features into this exercise. Here are some suggestion if you are interested in learning more about `sass`.
 
 ## Syntactic Sugar
 
@@ -62,7 +62,13 @@ Try messing around with the [`& > ~`](https://css-tricks.com/the-sass-ampersand/
 
 ## Control directives (@if, @loop, @each)
 
-Here is a [link]() that will help you learn about control directives for `sass`. 
+Here is a [link](http://thesassway.com/intermediate/if-for-each-while) that will help you learn about control directives for `sass`.
+
+## Survey
+
+I will use the slides and material from today for future quarters. I also hope to see ways to improve so you guys are more excited to learn about materials for this course. You guys matter to me a lot and despite how informal I look, I will take your criticism and opinions very seriously.
+
+Here is an optional and anounymous [survey](https://goo.gl/forms/O92NTvz6IYv2Cfq62).
 
 ## Be a nice classmate
 
