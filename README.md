@@ -54,7 +54,7 @@ Let's get a little more advanced!
 
 # Above and beyond!
 
-Congratulations! At this point, you are done with the lab! You can keep learning about Sass and implement unique features into this exercise. Here are some suggestion if you are interested in learning more about `sass`.
+Congratulations! At this point, you are done with the lab! You can keep learning about Sass and implement unique features into this exercise. Here are some suggestions if you are interested in learning more about `sass`.
 
 ## Syntactic Sugar
 
