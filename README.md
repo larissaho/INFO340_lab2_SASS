@@ -19,7 +19,7 @@ Writing CSS kinda sucks. Many times when writing it, you copy paste a lot of cod
 2. Confirm that you have `sass` installed with `sass -v` in your terminal.
 
 ## Getting Started
-We will install a plugging called *Live Sass Compiler* that will compile your `sass` to `css` on the go.
+We will install a plugin called *Live Sass Compiler* that will compile your `sass` to `css` on the go.
 1. Go to `Extensions` in VSCode or `Shift + Cmd/Ctrl + X` and install *Live Sass Compiler*.
 2. You will see that the *install* button just turned into *reload*. Click that and it should automatically restart your program.
 3. Here we will begin the sass watcher. See the blue bar at the bottom of your IDE (VSCode)? There should be an option saying `Watch Sass` with an eye symbol next to it. Click that!
