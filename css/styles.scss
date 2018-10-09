@@ -1,9 +1,8 @@
 // Put imports here!
-
-
+@import "colors";
 
 // Put any variable and mixin declarations here!
-$red:blue;
+$red:red;
 
 
 // Put your actual Sassy SCSS code here!
@@ -30,4 +29,8 @@ $red:blue;
     p {
         background-color: orange;
     }
+}
+
+h1 {
+    color:$purple;
 }
