@@ -3,7 +3,31 @@
 
 
 // Put any variable and mixin declarations here!
-
+$red:blue;
 
 
 // Put your actual Sassy SCSS code here!
+.container {
+    width: calc(100% - 40px);
+    background-color: pink;
+    ul {
+        color: $red;
+        font-family: sans-serif;
+    }
+    ol {
+        color: $red;
+        font-family: monospace;
+    }
+}
+
+.first {
+    p {
+        background-color: blue;
+    }
+}
+
+.second {
+    p {
+        background-color: orange;
+    }
+}

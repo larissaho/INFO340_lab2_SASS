@@ -1,0 +1,23 @@
+.container {
+  width: calc(100% - 40px);
+  background-color: pink;
+}
+
+.container ul {
+  color: blue;
+  font-family: sans-serif;
+}
+
+.container ol {
+  color: blue;
+  font-family: monospace;
+}
+
+.first p {
+  background-color: blue;
+}
+
+.second p {
+  background-color: orange;
+}
+/*# sourceMappingURL=styles.css.map */
