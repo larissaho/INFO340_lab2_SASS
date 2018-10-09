@@ -12,12 +12,6 @@ If you guys don't agree with the paragraph above, I am more than willing to answ
 
 Writing CSS kinda sucks. Many times when writing it, you copy paste a lot of code, and there isn't a great way to throw stuff into variables to be reused. An awesome library called [SASS](http://sass-lang.com/) fixes all of it!
 
-## Installing
-
-1. Go to your terminal or command line prompt. Type `npm install -g sass`.
-    * If you don't like `npm`, check out the [installation instructions ](http://sass-lang.com/install).
-2. Confirm that you have `sass` installed with `sass -v` in your terminal.
-
 ## Getting Started
 We will install a plugin called *Live Sass Compiler* that will compile your `sass` to `css` on the go.
 1. Go to `Extensions` in VSCode or `Shift + Cmd/Ctrl + X` and install *Live Sass Compiler*.
