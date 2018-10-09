@@ -1,9 +1,41 @@
 // Put imports here!
+@import "colors";
 
-
-
-// Put any variable declarations here!
-
-
+// Put any variable and mixin declarations here!
+$red: blue;
+@mixin side-margin($margin) {
+    margin-left: $margin;
+    margin-right: $margin;
+}
 
 // Put your actual Sassy SCSS code here!
+h1 {
+    color: $purple;
+}
+
+.container {
+    width: calc(100% - 40px);
+    background-color: pink;
+    @include side-margin(auto);
+    
+    ul {
+        color: $red;
+        font-family: sans-serif;
+    }
+    ol {
+        color: $red;
+        font-family: monospace;
+    }
+}
+
+.first {
+    p {
+        background-color: blue; 
+    }
+}
+
+.second {
+    p{
+        background-color: orange;
+    }
+}
