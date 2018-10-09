@@ -41,7 +41,7 @@ Continue making variables & doing nesting selection with these steps:
 
 Let's get a little more advanced!
 
-1. Another great advantage of `sass` is that it allows you to import code from other `.scss` files. Make a new `css/colors.scss` file and define new color variables that are not in `styles.scss`. Import `colors.scss` into your `styles.scss` with `@import "color"` statement!
+1. Another great advantage of `sass` is that it allows you to import code from other `.scss` files. Make a new `css/colors.scss` file and define new color variables that are not in `styles.scss`. Import `colors.scss` into your `styles.scss` with `@import "colors"` statement!
   * Use one of the color variables in `colors.scss` to change the color of `h1` in `styles.scss`.
 
 2. Check out how to use [`mixins`](http://sass-lang.com/guide). Declare one called `side-margin` that takes in a `$margin` variable as a parameter to set both the left and right margins to the value of `$margin`. Since the `container` class lacks 40 pixels from the total width, try calling `side-margin` inside `container` and pass in `auto` as an argument to *auto*matically center it in the page. Play with the container width and different values passed into `side-margin`.
